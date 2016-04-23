@@ -44,7 +44,15 @@ b. treated with hypertension medication
 
 ## Web site  
 
-![image](https://github.com/Schactman/Schactman.github.io/blob/master/STapp.PNG)  
+* Web site is simple to use
+* https://markschactman.shinyapps.io/STapp/
+* Sample scores and associated stroke risk  
+
+| CHADS2 Score |	Stroke Risk (%) | 95% CI      | 
+| -------------|------------------|-------------|
+| 0            |  1.9             |  1.2 -  3.0 |
+| 1            |  2.8             |  2.0 -  3.8 | 
+
 
 --- .class #id 
 
