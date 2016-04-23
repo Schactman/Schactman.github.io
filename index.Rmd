@@ -44,7 +44,7 @@ b. treated with hypertension medication
 
 ## Web site  
 
-![image](STapp.png)  
+![image](https://github.com/Schactman/Schactman.github.io/blob/master/STapp.PNG)  
 
 --- .class #id 
 
